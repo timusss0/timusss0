@@ -2,7 +2,7 @@
 
 - My Portfolio: https://tiamustikav3.vercel.app/**
 
-- 🌱 Specializing in **Laravel as a freelance web developer**
+- 🌱 JavaScript web developer currently focusing on Next.js
 
 - 🏆 Certified Junior Web Developer by the National Professional Certification Agency (BNSP)
 
